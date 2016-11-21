@@ -1,3 +1,10 @@
+---
+layout: page
+title: README.md
+permalink: readme/
+---
+
+
 #Thinny - The Infinite's Nymphet
 
 
